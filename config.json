@@ -1,1 +1,8 @@
-{"executor_test":"Success at 13:26:03","powered_by":"Roblox Executor"}
+{
+  "key": "asdjhasdjhaksjdhajksdhjasdhjk",
+  "config": {
+    "aimbot": 20,
+    "silentAim": 50,
+    "fragmenting": 100
+  }
+}
