@@ -1,8 +1,9 @@
 {
+  "script_key": "hi",
   "key": "asdjhasdjhaksjdhajksdhjasdhjk",
   "config": {
     "aimbot": 20,
     "silentAim": 10,
-    "fragmenting": 40
+    "fragmenting": 10
   }
 }
