@@ -2,7 +2,7 @@
   "key": "asdjhasdjhaksjdhajksdhjasdhjk",
   "config": {
     "aimbot": 20,
-    "silentAim": 20,
-    "fragmenting": 70
+    "silentAim": 10,
+    "fragmenting": 40
   }
 }
