@@ -4,6 +4,6 @@
   "config": {
     "aimbot": 20,
     "silentAim": 10,
-    "fragmenting": 12
+    "fragmenting": 9000
   }
 }
